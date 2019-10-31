@@ -1,0 +1,61 @@
+Modern Web Development
+
+Javascript is the top of 2019
+
+Multi Page Application
+
+->first request to the server and in response we receive the data upto 5 mb (HTML,CSS ,JS).
+->second request to the server and in response we receive the data upto 5 mb (HTML,CSS ,JS).
+
+
+SPA(Single Page Application) 
+
+->first request gets whole files like html, css, js.
+->second request get data in json form.
+
+
+
+
+
+
+
+
+
+
+AngularJS —> SPA(Single Page Application) 1.x —> Evan Yu
+
+Component Based Development
+
+React , Angular 2-8, Vue
+
+
+
+React —> FrontEnd
+
+sudo npm install create-react-app -g
+
+This command is used to create react applications but before using it we must install it from npm.
+
+
+In order to create react project
+
+->create-react-app <appname> --save
+
+
+
+
+
+
+Node —> BackEnd
+NPM (Node Package Manager)
+Express —>BackEnd
+
+Integration of BackEnd and FrontEnd
+Testing React Application With Mocha( npm module)
+
+
+
+
+
+
+JAVA —>Spring, Hibernate
